@@ -8,3 +8,8 @@
 http://rcmdnk.github.io/blog/2014/06/09/compouter-git/
 
 簡単なプログラムを提出せよ（HelloWorldなど）
+
+簡単なプログラム例
+Hello World, FizzBuzz
+
+
