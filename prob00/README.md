@@ -7,3 +7,10 @@
 フォーク元の変更を取り込む方法は以下URLを参照
 http://rcmdnk.github.io/blog/2014/06/09/compouter-git/
 
+
+
+
+簡単なプログラム例
+Hello World, FizzBuzz
+
+
