@@ -21,8 +21,6 @@ git pull nit master
 git push origin master
 ```
 
-Github上でPull Requestを投げる。
-
-NIT-Anan-ProconのOwnerいずれかが内容を確認し、リクエストの許可をまつ。
+Github上でPull Requestを投げ、リクエストの許可をまつ。
 
 許可されれば、変更がnitに取り込まれる。
