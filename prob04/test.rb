@@ -1,8 +1,5 @@
-
-
-xs = (0..100).to_a.shuffle
-inputs = xs[1..100]
+n = ARGV[0].to_i
+n = n == 0 ? 10 : n
+xs = (0..n).to_a.shuffle
 STDERR.puts "answer: #{xs[0]}"
-inputs.each{|i|
-  puts i
-}
+xs[1..n].each{|i| puts i }
