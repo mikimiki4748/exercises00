@@ -1,4 +1,4 @@
-#問題00-00
+#問題00-00 Fork and Push and Pull
 このリポジトリをフォークし、簡単なプログラムをフォークしたリポジトリにpushせよ。
 (簡単なプログラムの例)　Hello World, FizzBuzz
 
