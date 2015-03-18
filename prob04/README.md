@@ -8,13 +8,13 @@
 ランダムな1000個の入力を得ることが出来る。
 また、標準エラーに期待される解が出力される。
 ```
-ruby test.rb 1000 | <your program>
+% ruby test.rb 1000 | <your program>
 ```
 
 
 実行例
 ```
-% ruby test.rb | ruby prob04.rb
+% ruby test.rb 1000 | ruby prob04.rb 1000
 answer: 88
 88
 ```
