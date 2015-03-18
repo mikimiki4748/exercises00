@@ -11,3 +11,10 @@
 ruby test.rb | <your program>
 ```
 
+
+実行例
+```
+% ruby test.rb | ruby prob04.rb
+answer: 88
+88
+```
