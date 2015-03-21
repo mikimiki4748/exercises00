@@ -5,8 +5,10 @@ Fig.1に示した、かけらをつなぎ合わせて、Fig.2のような横11x�
 ただし、かけらは
  - 平行移動
  - 回転
+
 は出来るが
  - 裏返し
+
 はできない。
 
 [問題ソース](http://www.hanayamatoys.co.jp/product/category/puzzle/meiji/meiji-black.html)
